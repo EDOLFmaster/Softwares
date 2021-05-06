@@ -84,7 +84,7 @@ Button4.grid(row=1,column=4)
 Button5=Button(root,text="5",padx=20,pady=20,command=lambda: bc("5"))
 Button5.grid(row=2,column=1)
 
-Button6=Button(root,text="6",padx=20,pady=20,command=lambda: bc("6"))
+Button6=Button(root,text="6",padx=20,pady=20,command=lambda: bc("6"))        #Hello, this is an easter egg
 Button6.grid(row=2,column=2)
 
 Button7=Button(root,text="7",padx=20,pady=20,command=lambda: bc("7"))
